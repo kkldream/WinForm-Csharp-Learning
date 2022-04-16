@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HZH_Controls/1.0.14": {
+        "runtime": {
+          "lib/net40/HZH_Controls.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HZH_Controls/1.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5DX83m+v/7nWKM1GD4wmGO3hPE/LAF4bhSDpyJEV0kjPWyrL9SCM0HQ6V73H6cnJIytR5eX117YbRwCdvqQ3aQ==",
+      "path": "hzh_controls/1.0.14",
+      "hashPath": "hzh_controls.1.0.14.nupkg.sha512"
+    }
+  }
+}

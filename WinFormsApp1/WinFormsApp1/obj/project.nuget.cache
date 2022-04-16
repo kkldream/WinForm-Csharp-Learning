@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQuASPTlg0f/pNg+wJaOE/RP/3YYDGoBL4334ILdaLAfkKk1ITFeAq7tiaOFmY1TVmmLUplH696SZgu5tuR8+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kk693\\.nuget\\packages\\hzh_controls\\1.0.14\\hzh_controls.1.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'HZH_Controls 1.0.14'。此套件與您的專案並非完全相容。",
+      "libraryId": "HZH_Controls",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
