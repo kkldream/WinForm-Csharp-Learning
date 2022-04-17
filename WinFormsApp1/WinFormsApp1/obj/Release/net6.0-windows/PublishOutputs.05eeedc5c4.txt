@@ -1,0 +1,6 @@
+C:\Users\kk693\Desktop\Git-Repositiry\WinForm-Csharp-Learning\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.exe
+C:\Users\kk693\Desktop\Git-Repositiry\WinForm-Csharp-Learning\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.dll
+C:\Users\kk693\Desktop\Git-Repositiry\WinForm-Csharp-Learning\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.deps.json
+C:\Users\kk693\Desktop\Git-Repositiry\WinForm-Csharp-Learning\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.runtimeconfig.json
+C:\Users\kk693\Desktop\Git-Repositiry\WinForm-Csharp-Learning\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\WinFormsApp1.pdb
+C:\Users\kk693\Desktop\Git-Repositiry\WinForm-Csharp-Learning\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\HZH_Controls.dll

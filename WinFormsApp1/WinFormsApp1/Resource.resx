@@ -121,7 +121,8 @@
     <value>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</value>
   </data>
   <data name="dirPath" xml:space="preserve">
-    <value>C:\Users\kk693\Desktop\Git-Repositiry\WinForm-Csharp-Learning\img\</value>
+    <value>img\</value>
+    <comment>C:\Users\kk693\Desktop\Git-Repositiry\WinForm-Csharp-Learning\img\</comment>
   </data>
   <data name="info_ch4" xml:space="preserve">
     <value>甲烷是一種短暫但強效的溫室氣體，是全球第二大溫室效應來源，僅次於二氧化碳。UNEP報告指出，大氣中甲烷濃度現處於有記錄的40年來最高水準，人為排放主要來自畜牧業、化石燃料生產和廢棄物產業。

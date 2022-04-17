@@ -70,7 +70,7 @@ namespace WinFormsApp1 {
         }
         
         /// <summary>
-        ///   查詢類似 C:\Users\kk693\Desktop\Git-Repositiry\WinForm-Csharp-Learning\img\ 的當地語系化字串。
+        ///   查詢類似 img\ 的當地語系化字串。
         /// </summary>
         public static string dirPath {
             get {
