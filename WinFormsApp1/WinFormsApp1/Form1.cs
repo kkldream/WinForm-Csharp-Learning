@@ -1,7 +1,10 @@
 using Test;
+using System.Reflection;
+using System.Resources;
+using System.Globalization;
 namespace WinFormsApp1
 {
-    public partial class Form1 : Form
+    public partial class Form1 : HZH_Controls.Forms.FrmWithTitle
     {
         public Form1()
         {
@@ -10,7 +13,7 @@ namespace WinFormsApp1
 
         private void ucBtnImg1_BtnClick(object sender, EventArgs e)
         {
-            new FrmWithTitleTest().ShowDialog();
+            new FrmInfo("Hello").ShowDialog(this);
         }
 
         private void ucTrackBar1_ValueChanged(object sender, EventArgs e)
@@ -24,6 +27,13 @@ namespace WinFormsApp1
             else
             {
                 ucThermometer1.Visible = false;
+            }
+
+            switch (ucTrackBar1.Value)
+            {
+                case 2006:
+                    //ucSplitLabel_text.Text = text_2006;
+                    break;
             }
         }
 

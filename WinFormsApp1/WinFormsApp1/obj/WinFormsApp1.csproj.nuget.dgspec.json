@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj": {
+    "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net48": {}
       }
     },
-    "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\kk693\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kk693\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,8 +43,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj": {
-                "projectPath": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj"
+              "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj": {
+                "projectPath": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj"
               }
             }
           }
@@ -82,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
