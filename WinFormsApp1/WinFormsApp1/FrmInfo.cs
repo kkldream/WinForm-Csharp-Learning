@@ -12,15 +12,18 @@ namespace WinFormsApp1
 {
     public partial class FrmInfo : HZH_Controls.Forms.FrmWithTitle
     {
-        public FrmInfo(string info)
+        public FrmInfo(string? info)
         {
             InitializeComponent();
-            ucSplitLabel_info.Text = info;
+            label_info.Text = info;
         }
-
-        private void FrmInfo_Load(object sender, EventArgs e)
+        public FrmInfo(string? title, string? info, int addHight=0)
         {
-
+            InitializeComponent();
+            this.Title = title;
+            this.ClientSize = new System.Drawing.Size(427, 310 + addHight);
+            this.label_info.Size = new System.Drawing.Size(380, 201 + addHight);
+            label_info.Text = info;
         }
     }
 }

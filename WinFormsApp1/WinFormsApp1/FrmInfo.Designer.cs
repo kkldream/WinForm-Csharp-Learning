@@ -28,42 +28,38 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.label_info = new System.Windows.Forms.Label();
             this.ucSplitLabel_info = new HZH_Controls.Controls.UCSplitLabel();
             this.SuspendLayout();
             // 
-            // ucSplitLabel_info
+            // label_info
             // 
-            this.ucSplitLabel_info.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.ucSplitLabel_info.Font = new System.Drawing.Font("微软雅黑", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.ucSplitLabel_info.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(238)))), ((int)(((byte)(245)))));
-            this.ucSplitLabel_info.Location = new System.Drawing.Point(62, 106);
-            this.ucSplitLabel_info.MaximumSize = new System.Drawing.Size(0, 25);
-            this.ucSplitLabel_info.MinimumSize = new System.Drawing.Size(150, 25);
-            this.ucSplitLabel_info.Name = "ucSplitLabel_info";
-            this.ucSplitLabel_info.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
-            this.ucSplitLabel_info.Size = new System.Drawing.Size(299, 25);
-            this.ucSplitLabel_info.TabIndex = 7;
-            this.ucSplitLabel_info.Text = "ucSplitLabel_info";
-            this.ucSplitLabel_info.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label_info.Font = new System.Drawing.Font("微软雅黑", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label_info.Location = new System.Drawing.Point(23, 84);
+            this.label_info.Name = "label_info";
+            this.label_info.Size = new System.Drawing.Size(380, 201);
+            this.label_info.TabIndex = 8;
+            this.label_info.Text = "這裡還沒有參考資料。";
             // 
             // FrmInfo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(427, 310);
+            this.Controls.Add(this.label_info);
             this.Controls.Add(this.ucSplitLabel_info);
             this.IsShowCloseBtn = true;
             this.Name = "FrmInfo";
             this.RegionRadius = 30;
             this.Title = "參考資料";
-            this.Load += new System.EventHandler(this.FrmInfo_Load);
             this.Controls.SetChildIndex(this.ucSplitLabel_info, 0);
+            this.Controls.SetChildIndex(this.label_info, 0);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
+        private Label label_info;
         private HZH_Controls.Controls.UCSplitLabel ucSplitLabel_info;
     }
 }

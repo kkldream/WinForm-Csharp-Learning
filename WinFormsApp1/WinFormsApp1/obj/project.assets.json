@@ -10,15 +10,6 @@
         "runtime": {
           "lib/net40/HZH_Controls.dll": {}
         }
-      },
-      "Test/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Test.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Test.dll": {}
-        }
       }
     }
   },
@@ -34,17 +25,11 @@
         "hzh_controls.nuspec",
         "lib/net40/HZH_Controls.dll"
       ]
-    },
-    "Test/1.0.0": {
-      "type": "project",
-      "path": "../../net_winform_custom_control-master/HZH_Controls/Test/Test.csproj",
-      "msbuildProject": "../../net_winform_custom_control-master/HZH_Controls/Test/Test.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "HZH_Controls >= 1.0.14",
-      "Test >= 1.0.0"
+      "HZH_Controls >= 1.0.14"
     ]
   },
   "packageFolders": {
@@ -73,11 +58,7 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {
-            "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj": {
-              "projectPath": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\net_winform_custom_control-master\\HZH_Controls\\Test\\Test.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

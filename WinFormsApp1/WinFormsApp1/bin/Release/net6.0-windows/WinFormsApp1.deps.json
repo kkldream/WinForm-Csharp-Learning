@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "HZH_Controls": "1.0.14",
+          "Test": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      },
+      "HZH_Controls/1.0.14": {
+        "runtime": {
+          "lib/net40/HZH_Controls.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Test/1.0.0": {
+        "runtime": {
+          "Test.exe": {}
+        }
+      },
+      "LiveCharts.WinForms/0.9.7.1": {
+        "runtime": {
+          "LiveCharts.WinForms.dll": {
+            "assemblyVersion": "0.9.7.1",
+            "fileVersion": "0.9.7.1"
+          }
+        }
+      },
+      "LiveCharts.Wpf/0.9.7.0": {
+        "runtime": {
+          "LiveCharts.Wpf.dll": {
+            "assemblyVersion": "0.9.7.0",
+            "fileVersion": "0.9.7.0"
+          }
+        }
+      },
+      "LiveCharts/0.9.7.0": {
+        "runtime": {
+          "LiveCharts.dll": {
+            "assemblyVersion": "0.9.7.0",
+            "fileVersion": "0.9.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HZH_Controls/1.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5DX83m+v/7nWKM1GD4wmGO3hPE/LAF4bhSDpyJEV0kjPWyrL9SCM0HQ6V73H6cnJIytR5eX117YbRwCdvqQ3aQ==",
+      "path": "hzh_controls/1.0.14",
+      "hashPath": "hzh_controls.1.0.14.nupkg.sha512"
+    },
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiveCharts.WinForms/0.9.7.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiveCharts.Wpf/0.9.7.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiveCharts/0.9.7.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
