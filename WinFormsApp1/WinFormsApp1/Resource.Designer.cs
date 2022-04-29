@@ -61,7 +61,7 @@ namespace WinFormsApp1 {
         }
         
         /// <summary>
-        ///   查詢類似 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe 的當地語系化字串。
+        ///   查詢類似 C:\Program Files\Google\Chrome\Application\chrome.exe 的當地語系化字串。
         /// </summary>
         public static string browserPath {
             get {

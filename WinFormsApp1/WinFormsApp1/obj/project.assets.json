@@ -38,11 +38,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\kk693\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kk693\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,7 +94,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   },

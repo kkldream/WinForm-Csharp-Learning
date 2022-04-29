@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XLeZUcRWtkUgv5aRGvidTYG5XFRkkXAu16JnQOTA41ge8hPLhmjuyG81HYDRH2sHHpX5Lc6y+9yL1LAp0rcMUA==",
+  "dgSpecHash": "wqRV0mvxwN30f+o6FF5+DwTcynSBTOx2VKtRPqUpssmINGUkMQ/7SXgpMTLMfW+z5nsnflMmEzT+l50p/eXL9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kk693\\Desktop\\Git-Repositiry\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\Users\\kk693\\Desktop\\Git-Repository\\WinForm-Csharp-Learning\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kk693\\.nuget\\packages\\hzh_controls\\1.0.14\\hzh_controls.1.0.14.nupkg.sha512"
   ],

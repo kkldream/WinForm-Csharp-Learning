@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="browserPath" xml:space="preserve">
-    <value>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</value>
+    <value>C:\Program Files\Google\Chrome\Application\chrome.exe</value>
   </data>
   <data name="dirPath" xml:space="preserve">
     <value>img\</value>
